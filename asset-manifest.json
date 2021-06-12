@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Weather-app-demo/static/css/main.c39932d3.chunk.css",
+    "main.css": "/Weather-app-demo/static/css/main.1c7f256f.chunk.css",
     "main.js": "/Weather-app-demo/static/js/main.c2f123bc.chunk.js",
     "main.js.map": "/Weather-app-demo/static/js/main.c2f123bc.chunk.js.map",
     "runtime-main.js": "/Weather-app-demo/static/js/runtime-main.530e735c.js",
@@ -8,14 +8,14 @@
     "static/js/2.6d4f24c1.chunk.js": "/Weather-app-demo/static/js/2.6d4f24c1.chunk.js",
     "static/js/2.6d4f24c1.chunk.js.map": "/Weather-app-demo/static/js/2.6d4f24c1.chunk.js.map",
     "index.html": "/Weather-app-demo/index.html",
-    "static/css/main.c39932d3.chunk.css.map": "/Weather-app-demo/static/css/main.c39932d3.chunk.css.map",
+    "static/css/main.1c7f256f.chunk.css.map": "/Weather-app-demo/static/css/main.1c7f256f.chunk.css.map",
     "static/js/2.6d4f24c1.chunk.js.LICENSE.txt": "/Weather-app-demo/static/js/2.6d4f24c1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Weather-app-demo/static/media/lake_during_sunset_in_yellow_black_dusk_sky_background_reflection_4k_hd_nature.1a998e51.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.530e735c.js",
     "static/js/2.6d4f24c1.chunk.js",
-    "static/css/main.c39932d3.chunk.css",
+    "static/css/main.1c7f256f.chunk.css",
     "static/js/main.c2f123bc.chunk.js"
   ]
 }
